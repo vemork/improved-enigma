@@ -1,0 +1,16 @@
+# Build Folders
+*/bin/
+*/obj/
+
+# Visual Studio Files
+*.sln
+*.suo
+*.user
+*.vscode/
+
+# Rider files
+.idea/
+
+# Otros archivos de usuario
+*.local
+*.pre-commit-config.yaml
