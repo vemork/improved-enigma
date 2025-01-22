@@ -8,7 +8,7 @@ public class Person
         Console.WriteLine("Hi, my name is " + Name); // static method
     }
 }
-
+error CS8803: Top-level statements must precede namespace and type declarations.
 public class Calculator
 {
     public int Add(int a, int b)
